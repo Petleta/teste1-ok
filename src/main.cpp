@@ -90,7 +90,7 @@ class $modify(PIBBaseGameLayer, GJBaseGameLayer) {
                 ++it;
             }
         }
-
+       
    GJBaseGameLayer::processCommands(dt, isHalfTick, isLastTick);
     }
 };
